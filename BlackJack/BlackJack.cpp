@@ -785,7 +785,7 @@ void ShowBackCard(COORD& CardPosition, int X, int Y) {
 		for (int x = 0; x < 10; x++) // цикл идет по столбцам
 		{
 
-			cout << (char)219;
+			cout << (char)218;
 		}
 
 	}
